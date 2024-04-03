@@ -1,0 +1,21 @@
+{
+  "name": "todo_sam",
+  "version": "1.0.0",
+  "description": "To create a ToDo list",
+  "main": "index.js",
+  "bin": {
+    "todo_sam": "bin/index.js"
+  },
+  "scripts": {
+    "test": "\\*dO MORE*\\"
+  },
+  "keywords": [
+    "sammar"
+  ],
+  "author": "samiyamarium",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "inquirer": "^8.0.0"
+  }
+}
